@@ -1,12 +1,10 @@
 '''
 Released under BSD.
-Source code available at https://github.com/gaganmalvi/PenultimateBMS
-(C) Gagan Malvi et al.
+Source code available at https://github.com/gaganmalvi/DecixBMS
+(C) Gagan Malvi 2019
 '''
 import pymysql as p
 import os
-import pathlib
-
 
 def intro():
     clrscr()
